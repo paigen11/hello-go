@@ -1,0 +1,25 @@
+{    
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#d2cce5",
+    "activityBar.background": "#d2cce5",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#b47d6b",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#d2cce5",
+    "statusBar.background": "#b4abd3",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#968ac1",
+    "statusBarItem.remoteBackground": "#b4abd3",
+    "statusBarItem.remoteForeground": "#15202b",
+    "tab.activeBorder": "#d2cce5",
+    "titleBar.activeBackground": "#b4abd3",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#b4abd399",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#b4abd3",
+  "editor.defaultFormatter": "golang.go",
+  "editor.formatOnSave": true
+}
